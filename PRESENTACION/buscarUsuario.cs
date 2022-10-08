@@ -12,9 +12,16 @@ namespace SistemaParaTomadeDecisiones.PRESENTACION
 {
     public partial class buscarUsuario : Form
     {
+        conexion cnn = new conexion();
+
         public buscarUsuario()
         {
             InitializeComponent();
+        }
+
+        private void buscarUsuario_Load(object sender, EventArgs e)
+        {
+            dataGridView1.DataSource = cnn.getClientes();
         }
     }
 }
