@@ -69,6 +69,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="conexion.cs" />
+    <Compile Include="PRESENTACION\buscarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTACION\buscarUsuario.Designer.cs">
+      <DependentUpon>buscarUsuario.cs</DependentUpon>
+    </Compile>
     <Compile Include="PRESENTACION\ConsultaCliente.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -89,6 +95,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="PRESENTACION\buscarUsuario.resx">
+      <DependentUpon>buscarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="PRESENTACION\ConsultaCliente.resx">
       <DependentUpon>ConsultaCliente.cs</DependentUpon>
     </EmbeddedResource>
