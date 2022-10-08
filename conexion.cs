@@ -20,15 +20,7 @@ namespace SistemaParaTomadeDecisiones
             using (var connection = new SqlConnection(connectionString))
             {
                 SqlDataAdapter da = new SqlDataAdapter(queryString, connectionString);
-
-                try
-                {
-                    da.Fill(dt);
-                }
-                catch (Exception)
-                {
-
-                }
+                da.Fill(dt);
             }
 
             return dt;
