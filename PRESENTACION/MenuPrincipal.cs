@@ -12,6 +12,8 @@ namespace SistemaParaTomadeDecisiones.PRESENTACION
 {
     public partial class MenuPrincipal : Form
     {
+        string cnx = conexion.GetConexion();
+
         public MenuPrincipal()
         {
             InitializeComponent();
