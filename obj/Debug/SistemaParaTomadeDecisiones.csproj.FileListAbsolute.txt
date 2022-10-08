@@ -11,3 +11,28 @@ D:\Proyecto de C#\SistemaParaTomadeDecisiones\obj\Debug\SistemaParaTomadeDecisio
 D:\Proyecto de C#\SistemaParaTomadeDecisiones\obj\Debug\SistemaParaTomadeDecisiones.exe
 D:\Proyecto de C#\SistemaParaTomadeDecisiones\obj\Debug\SistemaParaTomadeDecisiones.pdb
 D:\Proyecto de C#\SistemaParaTomadeDecisiones\obj\Debug\SistemaParaTomadeDecisiones.PRESENTACION.IdentificacionClientes.resources
+C:\Users\MG-LAP047\Documents\GitHub\ProyectoTomaDecisiones\obj\Debug\SistemaParaTomadeDecisiones.csproj.AssemblyReference.cache
+C:\Users\MG-LAP047\Documents\GitHub\ProyectoTomaDecisiones\obj\Debug\SistemaParaTomadeDecisiones.csproj.SuggestedBindingRedirects.cache
+C:\Users\MG-LAP047\Documents\GitHub\ProyectoTomaDecisiones\obj\Debug\SistemaParaTomadeDecisiones.PRESENTACION.buscarUsuario.resources
+C:\Users\MG-LAP047\Documents\GitHub\ProyectoTomaDecisiones\obj\Debug\SistemaParaTomadeDecisiones.PRESENTACION.ConsultaCliente.resources
+C:\Users\MG-LAP047\Documents\GitHub\ProyectoTomaDecisiones\obj\Debug\SistemaParaTomadeDecisiones.PRESENTACION.IdentificacionClientes.resources
+C:\Users\MG-LAP047\Documents\GitHub\ProyectoTomaDecisiones\obj\Debug\SistemaParaTomadeDecisiones.PRESENTACION.MenuPrincipal.resources
+C:\Users\MG-LAP047\Documents\GitHub\ProyectoTomaDecisiones\obj\Debug\SistemaParaTomadeDecisiones.Properties.Resources.resources
+C:\Users\MG-LAP047\Documents\GitHub\ProyectoTomaDecisiones\obj\Debug\SistemaParaTomadeDecisiones.csproj.GenerateResource.cache
+C:\Users\MG-LAP047\Documents\GitHub\ProyectoTomaDecisiones\obj\Debug\SistemaParaTomadeDecisiones.csproj.CoreCompileInputs.cache
+C:\Users\MG-LAP047\Documents\GitHub\ProyectoTomaDecisiones\obj\Debug\SistemaParaTomadeDecisiones.exe
+C:\Users\MG-LAP047\Documents\GitHub\ProyectoTomaDecisiones\obj\Debug\SistemaParaTomadeDecisiones.pdb
+C:\Users\MG-LAP047\Documents\GitHub\ProyectoTomaDecisiones\bin\Debug\SistemaParaTomadeDecisiones.exe.config
+C:\Users\MG-LAP047\Documents\GitHub\ProyectoTomaDecisiones\bin\Debug\SistemaParaTomadeDecisiones.exe
+C:\Users\MG-LAP047\Documents\GitHub\ProyectoTomaDecisiones\bin\Debug\SistemaParaTomadeDecisiones.pdb
+C:\Users\MG-LAP047\Documents\GitHub\ProyectoTomaDecisiones\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MG-LAP047\Documents\GitHub\ProyectoTomaDecisiones\bin\Debug\System.Data.SqlClient.dll
+C:\Users\MG-LAP047\Documents\GitHub\ProyectoTomaDecisiones\bin\Debug\System.Security.AccessControl.dll
+C:\Users\MG-LAP047\Documents\GitHub\ProyectoTomaDecisiones\bin\Debug\System.Security.Permissions.dll
+C:\Users\MG-LAP047\Documents\GitHub\ProyectoTomaDecisiones\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\MG-LAP047\Documents\GitHub\ProyectoTomaDecisiones\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\MG-LAP047\Documents\GitHub\ProyectoTomaDecisiones\bin\Debug\System.Data.SqlClient.xml
+C:\Users\MG-LAP047\Documents\GitHub\ProyectoTomaDecisiones\bin\Debug\System.Security.AccessControl.xml
+C:\Users\MG-LAP047\Documents\GitHub\ProyectoTomaDecisiones\bin\Debug\System.Security.Permissions.xml
+C:\Users\MG-LAP047\Documents\GitHub\ProyectoTomaDecisiones\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\MG-LAP047\Documents\GitHub\ProyectoTomaDecisiones\obj\Debug\SistemaParaTomadeDecisiones.csproj.CopyComplete

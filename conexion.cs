@@ -15,7 +15,7 @@ namespace SistemaParaTomadeDecisiones
         public DataTable getClientes()
         {
             DataTable dt = new DataTable();
-            var connectionString = ConfigurationManager.ConnectionStrings["dbCnx"].ConnectionString;
+            var connectionString = ConfigurationManager.ConnectionStrings[0].ToString();
             string queryString = "SELECT RUC, DENOMINACION, DUEDA FROM TABLA;";
             using (var connection = new SqlConnection(connectionString))
             {

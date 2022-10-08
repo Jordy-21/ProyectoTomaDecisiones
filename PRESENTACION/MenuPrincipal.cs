@@ -12,8 +12,6 @@ namespace SistemaParaTomadeDecisiones.PRESENTACION
 {
     public partial class MenuPrincipal : Form
     {
-        string cnx = conexion.GetConexion();
-
         public MenuPrincipal()
         {
             InitializeComponent();
@@ -46,20 +44,20 @@ namespace SistemaParaTomadeDecisiones.PRESENTACION
 
         private void consultaPorClienteToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            ConsultaCliente Control = new ConsultaCliente();
-            panel2.Controls.Clear();
-            Control.Dock = DockStyle.Fill;
-            panel2.Controls.Add(Control);
+            buscarUsuario form = new buscarUsuario();
+            form.MdiParent = this;
+
+            form.Show();
             
         }
 
         private void identificaciónDeClienteToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            IdentificacionClientes Control = new IdentificacionClientes();
+            /*IdentificacionClientes Control = new IdentificacionClientes();
             panel2.Controls.Clear();
             Control.Dock = DockStyle.Fill;
             panel2.Controls.Add(Control);
-
+            */
         }
     }
 }
