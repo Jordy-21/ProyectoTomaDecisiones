@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaParaTomadeDecisiones", "SistemaParaTomadeDecisiones.csproj", "{3A14F3CF-9A46-4A45-A49B-9F148662FF22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A14F3CF-9A46-4A45-A49B-9F148662FF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A14F3CF-9A46-4A45-A49B-9F148662FF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A14F3CF-9A46-4A45-A49B-9F148662FF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A14F3CF-9A46-4A45-A49B-9F148662FF22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B034AAE-5E22-4A39-8537-E5A805DFB074}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+D:\Proyecto de C#\SistemaParaTomadeDecisiones\bin\Debug\SistemaParaTomadeDecisiones.exe.config
+D:\Proyecto de C#\SistemaParaTomadeDecisiones\bin\Debug\SistemaParaTomadeDecisiones.exe
+D:\Proyecto de C#\SistemaParaTomadeDecisiones\bin\Debug\SistemaParaTomadeDecisiones.pdb
+D:\Proyecto de C#\SistemaParaTomadeDecisiones\obj\Debug\SistemaParaTomadeDecisiones.csproj.AssemblyReference.cache
+D:\Proyecto de C#\SistemaParaTomadeDecisiones\obj\Debug\SistemaParaTomadeDecisiones.csproj.SuggestedBindingRedirects.cache
+D:\Proyecto de C#\SistemaParaTomadeDecisiones\obj\Debug\SistemaParaTomadeDecisiones.PRESENTACION.ConsultaCliente.resources
+D:\Proyecto de C#\SistemaParaTomadeDecisiones\obj\Debug\SistemaParaTomadeDecisiones.PRESENTACION.MenuPrincipal.resources
+D:\Proyecto de C#\SistemaParaTomadeDecisiones\obj\Debug\SistemaParaTomadeDecisiones.Properties.Resources.resources
+D:\Proyecto de C#\SistemaParaTomadeDecisiones\obj\Debug\SistemaParaTomadeDecisiones.csproj.GenerateResource.cache
+D:\Proyecto de C#\SistemaParaTomadeDecisiones\obj\Debug\SistemaParaTomadeDecisiones.csproj.CoreCompileInputs.cache
+D:\Proyecto de C#\SistemaParaTomadeDecisiones\obj\Debug\SistemaParaTomadeDecisiones.exe
+D:\Proyecto de C#\SistemaParaTomadeDecisiones\obj\Debug\SistemaParaTomadeDecisiones.pdb
+D:\Proyecto de C#\SistemaParaTomadeDecisiones\obj\Debug\SistemaParaTomadeDecisiones.PRESENTACION.IdentificacionClientes.resources
